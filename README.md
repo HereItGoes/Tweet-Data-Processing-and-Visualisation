@@ -2,7 +2,7 @@
 
 ## What is this?
 
-In summary it extract data from csv, remove null value then extract necessary data to graph box plot data and line graph.
+In summary it extract data from csv, remove null value then extract necessary data to graph box plot data and line graph. Will only work with the csv file provided as the functions are tailor to focus on extracting data from that csv file data format.
 
 ## Requirements
 
